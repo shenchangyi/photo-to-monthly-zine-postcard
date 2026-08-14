@@ -16,14 +16,18 @@ Turn one photograph into a finished `3:4` monthly Zine postcard: preserve the wh
 ## Gallery
 
 <p align="center">
-  <img src="examples/zine-monthly-dusk-field-august.png" alt="Dusk field monthly postcard" width="31%" />
-  <img src="examples/zine-monthly-snow-mountain-august.png" alt="Snow mountain monthly postcard" width="31%" />
-  <img src="examples/zine-monthly-ancient-town-august.png" alt="Ancient town monthly postcard" width="31%" />
+  <img src="examples/bridge-blue-hour.png" alt="Blue hour bridge monthly postcard" width="31%" />
+  <img src="examples/golden-rice-field.jpg" alt="Golden rice field monthly postcard" width="31%" />
+  <img src="examples/willow-pond.png" alt="Willow pond monthly postcard" width="31%" />
 </p>
 <p align="center">
-  <img src="examples/zine-monthly-summer-sea-august.png" alt="Summer sea monthly postcard" width="31%" />
-  <img src="examples/zine-monthly-willow-pond-august.png" alt="Willow pond monthly postcard" width="31%" />
-  <img src="examples/zine-monthly-blue-hour-bridge-august.png" alt="Blue hour bridge monthly postcard" width="31%" />
+  <img src="examples/dusk-field-camera-frame.png" alt="Dusk field monthly postcard" width="31%" />
+  <img src="examples/ancient-town.png" alt="Ancient town monthly postcard" width="31%" />
+  <img src="examples/summer-sea.png" alt="Summer sea monthly postcard" width="31%" />
+</p>
+<p align="center">
+  <img src="examples/wind-turbines.png" alt="Wind turbines monthly postcard" width="31%" />
+  <img src="examples/rural-road.png" alt="Rural road monthly postcard" width="31%" />
 </p>
 
 ## Install in Codex
