@@ -2,6 +2,18 @@
 
 Turn one photograph into a finished `3:4` monthly Zine postcard: preserve the whole photograph above, then build a compact watercolor monthly page below with image-matched literature and music.
 
+## Quick install
+
+Tell your Codex Agent:
+
+```text
+Please install the GitHub Skill `photo-to-monthly-zine-postcard`.
+Repository: shenchangyi/photo-to-monthly-zine-postcard
+Path: skills/photo-to-monthly-zine-postcard
+```
+
+The Skill turns one photo into a portrait `3:4` monthly Zine postcard: the original photo stays intact above, while the lower page adds a source-specific watercolor, curated literature, and matching music.
+
 中文：把一张照片制作成一张具有月历感的 Zine 明信片。它会保留原图主体，再用自由边界水彩、右侧书签栏、书籍短句、歌曲和页脚完成一张克制的摄影记录卡。
 
 ## What this Skill protects
