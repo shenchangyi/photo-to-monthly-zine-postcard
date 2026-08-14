@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monthly Zine Postcard"
+  short_description: "Turn photos into editorial monthly zine postcards."
+  default_prompt: "Use $photo-to-monthly-zine-postcard to turn this photo into a monthly Zine postcard."
